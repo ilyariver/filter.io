@@ -118,7 +118,7 @@ async function getResponse(num = 4, isFirstLoad = false, state = null, filtered 
 	const numberOfRoomsButton = []
 	const flatsData = []
 	let numberOfContentItems = 0
-	const url = 'https://ilyariver.github.io/data.json'
+	const url = 'https://ilyariver.github.io/data.json?callback=?'
 	const response = await fetch(url)
 
 	if (state !== 'slide') App.f()
