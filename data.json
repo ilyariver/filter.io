@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "image": "./img/elements/flat.svg",
+    "rooms":  3,
+    "apartment":  101,
+    "options": {
+      "area": "22,1",
+      "stage": 12,
+      "cost": 2630500
+    }
+  },
+  {
+    "id": 2,
+    "image": "./img/elements/flat.svg",
+    "rooms":  3,
+    "apartment":  102,
+    "options": {
+      "area": "63,1",
+      "stage": 2,
+      "cost": 3630500
+    }
+  },
+  {
+    "id": 3,
+    "image": "./img/elements/flat.svg",
+    "rooms":  1,
+    "apartment":  103,
+    "options": {
+      "area": "150,1",
+      "stage": 3,
+      "cost": 6630500
+    }
+  },
+  {
+    "id": 4,
+    "image": "./img/elements/flat.svg",
+    "rooms":  2,
+    "apartment":  104,
+    "options": {
+      "area": "61,1",
+      "stage": 5,
+      "cost": 4650759
+    }
+  },
+  {
+    "id": 5,
+    "image": "./img/elements/flat.svg",
+    "rooms":  3,
+    "apartment":  105,
+    "options": {
+      "area": "180.2",
+      "stage": 7,
+      "cost": 6630500
+    }
+  },
+  {
+    "id": 6,
+    "image": "./img/elements/flat.svg",
+    "rooms":  3,
+    "apartment":  106,
+    "options": {
+      "area": "150,1",
+      "stage": 6,
+      "cost": 6671314
+    }
+  },
+  {
+    "id": 7,
+    "image": "./img/elements/flat.svg",
+    "rooms":  2,
+    "apartment":  107,
+    "options": {
+      "area": "180,1",
+      "stage": 6,
+      "cost": 6630500
+    }
+  },
+  {
+    "id": 8,
+    "image": "./img/elements/flat.svg",
+    "rooms":  3,
+    "apartment":  108,
+    "options": {
+      "area": "63,1",
+      "stage": 8,
+      "cost": 6630500
+    }
+  },
+  {
+    "id": 9,
+    "image": "./img/elements/flat.svg",
+    "rooms":  3,
+    "apartment":  109,
+    "options": {
+      "area": "205,1",
+      "stage": 14,
+      "cost": 6679554
+    }
+  },
+  {
+    "id": 10,
+    "image": "./img/elements/flat.svg",
+    "rooms":  3,
+    "apartment":  110,
+    "options": {
+      "area": "63,1",
+      "stage": 15,
+      "cost": 6654665
+    }
+  },
+  {
+    "id": 11,
+    "image": "./img/elements/flat.svg",
+    "rooms":  1,
+    "apartment":  111,
+    "options": {
+      "area": "163,1",
+      "stage": 16,
+      "cost": 6780000
+    }
+  },
+  {
+    "id": 12,
+    "image": "./img/elements/flat.svg",
+    "rooms":  2,
+    "apartment":  112,
+    "options": {
+      "area": "63,1",
+      "stage": 12,
+      "cost": 6800565
+    }
+  },
+  {
+    "id": 13,
+    "image": "./img/elements/flat.svg",
+    "rooms":  2,
+    "apartment":  113,
+    "options": {
+      "area": "63,1",
+      "stage": 12,
+      "cost": 6810565
+    }
+  },
+  {
+    "id": 14,
+    "image": "./img/elements/flat.svg",
+    "rooms":  2,
+    "apartment":  114,
+    "options": {
+      "area": "115,1",
+      "stage": 15,
+      "cost": 6820565
+    }
+  },
+  {
+    "id": 15,
+    "image": "./img/elements/flat.svg",
+    "rooms":  3,
+    "apartment":  115,
+    "options": {
+      "area": "63,1",
+      "stage": 1,
+      "cost": 6850500
+    }
+  },
+  {
+    "id": 16,
+    "image": "./img/elements/flat.svg",
+    "rooms":  3,
+    "apartment":  116,
+    "options": {
+      "area": "95,1",
+      "stage": 1,
+      "cost": 4860600
+    }
+  },
+  {
+    "id": 17,
+    "image": "./img/elements/flat.svg",
+    "rooms":  1,
+    "apartment":  117,
+    "options": {
+      "area": "63,1",
+      "stage": 3,
+      "cost": 6880000
+    }
+  },
+  {
+    "id": 15,
+    "image": "./img/elements/flat.svg",
+    "rooms":  2,
+    "apartment":  118,
+    "options": {
+      "area": "63,1",
+      "stage": 4,
+      "cost": 5890000
+    }
+  },
+  {
+    "id": 19,
+    "image": "./img/elements/flat.svg",
+    "rooms":  3,
+    "apartment":  119,
+    "options": {
+      "area": "63,1",
+      "stage": 5,
+      "cost": 6950000
+    }
+  },
+  {
+    "id": 20,
+    "image": "./img/elements/flat.svg",
+    "rooms":  2,
+    "apartment":  120,
+    "options": {
+      "area": "63,1",
+      "stage": 10,
+      "cost": 6960000
+    }
+  },
+  {
+    "id": 21,
+    "image": "./img/elements/flat.svg",
+    "rooms":  1,
+    "apartment":  121,
+    "options": {
+      "area": "63,1",
+      "stage": 8,
+      "cost": 3970000
+    }
+  },
+  {
+    "id": 22,
+    "image": "./img/elements/flat.svg",
+    "rooms":  3,
+    "apartment":  122,
+    "options": {
+      "area": "63,1",
+      "stage": 8,
+      "cost": 5980000
+    }
+  },
+  {
+    "id": 23,
+    "image": "./img/elements/flat.svg",
+    "rooms":  3,
+    "apartment":  123,
+    "options": {
+      "area": "45,1",
+      "stage": 9,
+      "cost": 7150000
+    }
+  },
+  {
+    "id": 24,
+    "image": "./img/elements/flat.svg",
+    "rooms":  2,
+    "apartment":  124,
+    "options": {
+      "area": "86,1",
+      "stage": 10,
+      "cost": 7200000
+    }
+  },
+  {
+    "id": 25,
+    "image": "./img/elements/flat.svg",
+    "rooms":  3,
+    "apartment":  125,
+    "options": {
+      "area": "63,1",
+      "stage": 15,
+      "cost": 7250000
+    }
+  },
+  {
+    "id": 26,
+    "image": "./img/elements/flat.svg",
+    "rooms":  3,
+    "apartment":  126,
+    "options": {
+      "area": "63,1",
+      "stage": 11,
+      "cost": 7305000
+    }
+  },
+  {
+    "id": 27,
+    "image": "./img/elements/flat.svg",
+    "rooms":  2,
+    "apartment":  127,
+    "options": {
+      "area": "63,1",
+      "stage": 15,
+      "cost": 7455000
+    }
+  },
+  {
+    "id": 28,
+    "image": "./img/elements/flat.svg",
+    "rooms":  1,
+    "apartment":  128,
+    "options": {
+      "area": "190,1",
+      "stage": 11,
+      "cost": 7505000
+    }
+  },
+  {
+    "id": 29,
+    "image": "./img/elements/flat.svg",
+    "rooms":  3,
+    "apartment":  129,
+    "options": {
+      "area": "63,1",
+      "stage": 17,
+      "cost": 7605000
+    }
+  },
+  {
+    "id": 30,
+    "image": "./img/elements/flat.svg",
+    "rooms":  2,
+    "apartment":  130,
+    "options": {
+      "area": "250,1",
+      "stage": 17,
+      "cost": 7705000
+    }
+  }
+]
